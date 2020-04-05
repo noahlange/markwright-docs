@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://getmarkwright.com/blog</id>
+    <title>markwright Blog</title>
+    <updated>2018-08-25T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://getmarkwright.com/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest markwright news and events.</subtitle>
+    <logo>https://getmarkwright.com/img/logo.svg</logo>
+    <rights>Copyright © 2020 Noah Lange</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, world!]]></title>
+        <id>https://getmarkwright.com/blog/2018/08/25/hello-world.html</id>
+        <link href="https://getmarkwright.com/blog/2018/08/25/hello-world.html"/>
+        <updated>2018-08-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Elevator pitch: Markwright lets you use web technologies — specifically,
+Markdown and SASS — to generate print content.</p>
+]]></summary>
+        <author>
+            <name>Noah Lange</name>
+            <email/>
+            <uri/>
+        </author>
+    </entry>
+</feed>
